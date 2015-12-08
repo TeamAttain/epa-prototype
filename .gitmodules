@@ -1,0 +1,3 @@
+[submodule "epa-prototype-frontend"]
+	path = epa-prototype-frontend
+	url = git@github.com:smashingboxes/epa-prototype-frontend.git
