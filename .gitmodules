@@ -1,9 +1,12 @@
 [submodule "epa-prototype-frontend"]
 	path = epa-prototype-frontend
 	url = git@github.com:smashingboxes/epa-prototype-frontend.git
+  branch = master
 [submodule "epa-prototype-api"]
 	path = epa-prototype-api
 	url = git@github.com:smashingboxes/epa-prototype-api.git
+	branch = master
 [submodule "epa-prototype-android"]
 	path = epa-prototype-android
 	url = git@github.com:smashingboxes/epa-prototype-android.git
+  branch = master
