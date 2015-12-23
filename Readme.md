@@ -9,3 +9,16 @@
 ```
 ./sync
 ```
+
+## Deployment
+
+This application uses [Anisble](http://www.ansible.com/) for server management and application deployment.
+
+### Deploy to existing servier
+
+**:bangbang: you must have ssh access to the server**
+```
+./sync
+cd epa-prototype-api
+tape ansible deploy
+```
