@@ -112,7 +112,7 @@ For a complete list of future user stories, see the backlog of [our trello board
 **12/15/15 | Pivoting**
 * Initial designs are reviewed
 * Android is successfully retrieving FitBit Data
-* Staging site is configured and is displaying data from an AQI CSV dump
+* Staging site is configured and is displaying data from an AQI data dump
 * Project shifts from a focus on granular data analysis for the EPA, to a more broad focus on how air quality alerts and education may impact user decision making when choosing how to exercise. More emphasis is placed on the end user of the Android application.
 
 **12/18/15 | Pivoting, Settling, Finalizing**
