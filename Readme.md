@@ -2,7 +2,7 @@
 
 FitAir is a prototype Android application that accesses the FitBit application programming interface (API) and AirNow data to allow FitBit users to view air quality conditions before undertaking exercise.  This information benefits people who may have health conditions affected by air quality (e.g., asthmatics) or those in compromised environments (e.g., non-attainment zones) to make healthier choices, while also providing data to environmental officials on exercise levels relative to air quality.  Additionally, this application can help EPA by identifying areas in the country where frequent exercise coincides with poor air quality, thus allowing for more targeted advisories to be issued. 
 
-View our [concept video here](https://www.dropbox.com/s/6liwtkqvoxv6kig/EPA-draft-VO.mov?dl=0).
+[![ScreenShot](https://www.dropbox.com/s/6liwtkqvoxv6kig/EPA-draft-VO.mov?dl=0)
 
 #Repositories
 
@@ -76,7 +76,7 @@ To demo as an EPA user, visit [our staging site here](http://epa-prototype.sbox.
 
 Team Attain approached this project using a [Trello KanBan board](https://trello.com/b/IdjoinrZ/epa-prototype) to create and manage user stories. It was determined that a traditional sprint schedule was not appropriate given the timeline constraints and holiday scheduling.
 
-[![ScreenShot](https://www.dropbox.com/s/ybgjg94ckrfoy7a/Screen%20Shot%202015-12-30%20at%209.25.32%20AM.png?dl=0)
+
 
 
 
