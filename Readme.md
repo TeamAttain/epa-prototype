@@ -121,7 +121,7 @@ For a complete list of future user stories, see the backlog of [our trello board
 * Due to holiday vacation time, it is determined that Android has approximately 3 working days until deadline
 * Decision is made to stay the course for development, but iterate new ideas through the design process
 
-*12/21/15 | Week of Chirstmas - Development, Design Iteration**
+**12/21/15 Development, Design Iteration**
 * Styling for web front-end
 * API completion
 * Beginning API integration on Android
