@@ -2,7 +2,7 @@
 
 FitAir is a prototype Android application that accesses the FitBit application programming interface (API) and AirNow data to allow FitBit users to view air quality conditions before undertaking exercise.  This information benefits people who may have health conditions affected by air quality (e.g., asthmatics) or those in compromised environments (e.g., non-attainment zones) to make healthier choices, while also providing data to environmental officials on exercise levels relative to air quality.  Additionally, this application can help EPA by identifying areas in the country where frequent exercise coincides with poor air quality, thus allowing for more targeted advisories to be issued. 
 
-View our [concept video here]()
+View our [concept video here](https://www.dropbox.com/s/6liwtkqvoxv6kig/EPA-draft-VO.mov?dl=0).
 
 #Repositories
 
@@ -56,5 +56,25 @@ To demo as an end user, you must have a fitbit account and Android device. If yo
 * Select your location
 * Return to view current AQI and activity data
 * Please note that our application tracks manually added activity via the FitBit API. Your automatically tracked step data will not be represented here. For information about how to record your activity, [visit FitBit help](https://help.fitbit.com/articles/en_US/Help_article/How-do-I-use-exercise-mode-on-my-tracker). 
+
+To demo as an EPA user, visit [our staging site here](http://epa-prototype.sbox.es/air_quality_observations/27601).
+
+# Project Process
+
+##Project Documents / Information
+* [Technology Architecture](https://www.dropbox.com/s/vqho1tkfqv2lztl/prototype-architecture.pdf?dl=0)
+* [Initial Sketches](https://www.dropbox.com/s/73h1srrmh5wdgzo/sketch-set-1.pdf?dl=0)
+* [Design Iteration 1](https://www.dropbox.com/s/18ei84vbl2h256q/airfit_v1.pdf?dl=0)
+* [Design Iteration 2](https://www.dropbox.com/s/ifxev70hmz8w4dy/airfit_v2.pdf?dl=0)
+* [Design Iteration 3](https://www.dropbox.com/s/3rz531dy0651ugz/airfit_v3.pdf?dl=0)
+* [Design Iteration 4](https://www.dropbox.com/s/e9uc20vzedlvk56/airfit_v4.pdf?dl=0)
+* [Additional Sketches](https://www.dropbox.com/s/t8wrq65da0azznh/sketch-set-2.pdf?dl=0)
+* [Initial User Stories](https://www.dropbox.com/s/tm3n68whdlp325c/EPA%20Prototype%20User%20Stories_cfd.xlsx?dl=0)
+* [Trello Board](https://trello.com/b/IdjoinrZ/epa-prototype)
+
+
+
+
+
 
 
