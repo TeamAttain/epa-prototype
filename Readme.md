@@ -113,11 +113,11 @@ For a complete list of future user stories, see the backlog of [our trello board
 * Initial designs are reviewed
 * Android is successfully retrieving FitBit Data
 * Staging site is configured and is displaying data from an AQI data dump
-* Project shifts from a focus on granular data analysis for the EPA, to a more broad focus on how air quality alerts and education may impact user decision making when choosing how to exercise. More emphasis is placed on the end user of the Android application.
+* Project shifts from a focus on granular data analysis for the EPA, to a more broad focus on how air quality alerts and education may impact user decision making when choosing how to exercise. More emphasis is placed on the end user use of the Android application.
 
 **12/18/15 | Pivoting, Settling, Finalizing**
 * New discussion around usefulness and accuracy of indoor/outdoor idea
-* New ideas proposed for instead showing user the percentage of activity time they log within each AQI category - instead of indoor/outdoor classification as this does not tend to differ significantly 
+* New ideas proposed for showing user the percentage of activity time they log within each AQI category - instead of indoor/outdoor classification as this does not tend to differ significantly 
 * Due to holiday vacation time, it is determined that Android has approximately 3 working days until deadline
 * Decision is made to stay the course for development, but iterate new ideas through the design process
 
@@ -134,7 +134,7 @@ For a complete list of future user stories, see the backlog of [our trello board
 ##Lessons Learned
 The Attain Team reflected the iterative design/development of this prototype and identified actions for future improvement:
 * Team co-location wasn’t always possible.  Use of the web application Slack improved team communication and product quality
-* It is faster to iterate through wireframes or design comps than in development. We began development after one design iteration in order to meet deadlines, but could have spent 1-2 days of discovery iteration up front in retrospect
+* It is faster to iterate through wireframes or design comps than in development. We began development after one design iteration in order to meet deadlines, but could have spent 1-2 days of discovery iteration up front
 
 #For More Information
 
