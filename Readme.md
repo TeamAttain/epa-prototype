@@ -49,7 +49,7 @@ tape ansible everything
 
 To demo as an end user, you must have a fitbit account and Android device. If you do not have one or both of the required devices, you can watch our demo video [here](https://www.dropbox.com/s/y96wiw1notdg6p5/2015_12_30_08_10_09.mp4?dl=0).
 
-* Download the [Android APK]()
+* Download the [Android APK](https://www.dropbox.com/s/emmgjmug07ni7sh/app-debug.apk?dl=0)
 * Your device will prompt you to install, and then open
 * Click to 'Sign in with FitBit'
 * Enter your FitBit account email address and password
@@ -133,7 +133,8 @@ The Attain Team reflected the iterative design/development of this prototype and
 #For More Information
 
 * [AQI Official Website](http://airnow.gov/index.cfm?action=aqibasics.aqi)
+* [AQI Handbook](http://www3.epa.gov/airnow/flag/handbook-2015.pdf)
 * [FitBit Developer API](https://dev.fitbit.com/)
-* 
+* [Google Places API](https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=google%20places%20api) - used on Android for gathering location data from the user.
 
 
