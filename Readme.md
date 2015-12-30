@@ -76,7 +76,7 @@ To demo as an EPA user, visit [our staging site here](http://epa-prototype.sbox.
 
 Team Attain approached this project using a [Trello KanBan board](https://trello.com/b/IdjoinrZ/epa-prototype) to create and manage user stories. It was determined that a traditional sprint schedule was not appropriate given the timeline constraints and holiday scheduling.
 
-[](https://www.dropbox.com/s/ybgjg94ckrfoy7a/Screen%20Shot%202015-12-30%20at%209.25.32%20AM.png?dl=0)
+[![ScreenShot](https://www.dropbox.com/s/ybgjg94ckrfoy7a/Screen%20Shot%202015-12-30%20at%209.25.32%20AM.png?dl=0)
 
 
 
