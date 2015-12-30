@@ -128,7 +128,7 @@ For a complete list of future user stories, see the backlog of [our trello board
 ##Lessons Learned
 The Attain Team reflected the iterative design/development of this prototype and identified actions for future improvement:
 * Team co-location wasn’t always possible.  Use of the web application Slack improved team communication and product quality
-* The team started development of first concept quickly and further designs/features could not be implemented in time allotted.  Additional design iterations prior to development may allow for a more comprehensive application.
+* It is faster to iterate through wireframes or design comps than in development. We began development after one design iteration in order to meet deadlines, but could have spent 1-2 days of discovery iteration up front in retrospect
 
 #For More Information
 
