@@ -47,7 +47,7 @@ tape ansible everything
 ```
 # Demo Instructions
 
-To demo as an end user, you must have a fitbit account and Android device. If you do not have one or both of the required devices, you can watch our demo video [here](https://www.dropbox.com/s/y96wiw1notdg6p5/2015_12_30_08_10_09.mp4?dl=0).
+To demo as an end user, you must have a fitbit account and Android device. If you do not have one or both of the required devices, you can watch our demo video [here](https://www.dropbox.com/s/6zo5urwr3r8b4k4/2015_12_30_12_01_19.mp4?dl=0).
 
 * Download the [Android APK](https://www.dropbox.com/s/emmgjmug07ni7sh/app-debug.apk?dl=0). For ease of use, we recommend emailing this file to yourself so that you can open as an attachment directly on your Android device.
 * Your device will prompt you to install, and then open
@@ -69,7 +69,7 @@ To demo as an EPA user, visit [our staging site here](http://epa-prototype.sbox.
 * [Design Iteration 3](https://www.dropbox.com/s/3rz531dy0651ugz/airfit_v3.pdf?dl=0)
 * [Design Iteration 4](https://www.dropbox.com/s/e9uc20vzedlvk56/airfit_v4.pdf?dl=0)
 * [Additional Sketches](https://www.dropbox.com/s/t8wrq65da0azznh/sketch-set-2.pdf?dl=0)
-* [Initial User Stories](https://www.dropbox.com/s/tm3n68whdlp325c/EPA%20Prototype%20User%20Stories_cfd.xlsx?dl=0)
+* [Initial User Stories](https://www.dropbox.com/s/kdwgfmzync87o7x/EPA%20Prototype%20User%20Stories_cfd%20%281%29.xlsx?dl=0)
 * [Trello Board](https://trello.com/b/IdjoinrZ/epa-prototype)
 
 ## Process Approach
