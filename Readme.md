@@ -2,13 +2,13 @@
 
 FitAir is a prototype Android application that accesses the FitBit application programming interface (API) and AirNow data to allow FitBit users to view air quality conditions before undertaking exercise.  This information benefits people who may have health conditions affected by air quality (e.g., asthmatics) or those in compromised environments (e.g., non-attainment zones) to make healthier choices, while also providing data to environmental officials on exercise levels relative to air quality.  Additionally, this application can help EPA by identifying areas in the country where frequent exercise coincides with poor air quality, thus allowing for more targeted advisories to be issued. 
 
-View our [concept video here](https://www.dropbox.com/s/6liwtkqvoxv6kig/EPA-draft-VO.mov?dl=0).
+View our [concept video here](https://www.dropbox.com/s/m5hhzrhsskbsdxm/epa-prototype-hd.mov?dl=0).
 
 #Repositories
 
-* [Android](https://github.com/smashingboxes/epa-prototype-android)
-* [Frontend](https://github.com/smashingboxes/epa-prototype-frontend)
-* [API](https://github.com/smashingboxes/epa-prototype-api)
+* [Android](https://github.com/TeamAttain/epa-prototype-android)
+* [API](https://github.com/TeamAttain/epa-prototype-api)
+* [Frontend](https://github.com/TeamAttain/epa-prototype-frontend)
 
 ## How to synchronize scripts
 
@@ -120,6 +120,12 @@ For a complete list of future user stories, see the backlog of [our trello board
 * New ideas proposed for instead showing user the percentage of activity time they log within each AQI category - instead of indoor/outdoor classification as this does not tend to differ significantly 
 * Due to holiday vacation time, it is determined that Android has approximately 3 working days until deadline
 * Decision is made to stay the course for development, but iterate new ideas through the design process
+
+*12/21/15 | Week of Chirstmas - Development, Design Iteration**
+* Styling for web front-end
+* API completion
+* Beginning API integration on Android
+* New ideas are explored in sketches and designs that can be submitted with development work
 
 **12/29/15 | System testing and Prototype Retrospective**
 * End-to-end testing conducted
