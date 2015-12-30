@@ -6,9 +6,9 @@ View our [concept video here]()
 
 #Repositories
 
-*[Android](https://github.com/smashingboxes/epa-prototype-android)
-*[Frontend](https://github.com/smashingboxes/epa-prototype-frontend)
-*[API](https://github.com/smashingboxes/epa-prototype-api)
+* [Android](https://github.com/smashingboxes/epa-prototype-android)
+* [Frontend](https://github.com/smashingboxes/epa-prototype-frontend)
+* [API](https://github.com/smashingboxes/epa-prototype-api)
 
 ## How to synchronize scripts
 
